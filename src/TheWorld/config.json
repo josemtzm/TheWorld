@@ -1,0 +1,8 @@
+﻿{
+  "AppSettings": {
+    "SiteEmailAddress": "me@aol.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=MXRPGAIT0003;Database=TheWorldDB;User=sa;Password=Teletech1;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
